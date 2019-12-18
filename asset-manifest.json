@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d65ec99.chunk.css",
+    "main.js": "/static/js/main.96d41c12.chunk.js",
+    "main.js.map": "/static/js/main.96d41c12.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.935ef551.js",
+    "runtime-main.js.map": "/static/js/runtime-main.935ef551.js.map",
+    "static/css/2.e72b42a1.chunk.css": "/static/css/2.e72b42a1.chunk.css",
+    "static/js/2.a18c0053.chunk.js": "/static/js/2.a18c0053.chunk.js",
+    "static/js/2.a18c0053.chunk.js.map": "/static/js/2.a18c0053.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8745cd1cdc23931187df11be5f14f263.js": "/precache-manifest.8745cd1cdc23931187df11be5f14f263.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e72b42a1.chunk.css.map": "/static/css/2.e72b42a1.chunk.css.map",
+    "static/css/main.6d65ec99.chunk.css.map": "/static/css/main.6d65ec99.chunk.css.map",
+    "static/js/2.a18c0053.chunk.js.LICENSE": "/static/js/2.a18c0053.chunk.js.LICENSE",
+    "static/media/Download-Clapperboard-PNG-Picture.png": "/static/media/Download-Clapperboard-PNG-Picture.e620c033.png",
+    "static/media/cartplus.svg": "/static/media/cartplus.2a980289.svg",
+    "static/media/frozen.jpg": "/static/media/frozen.02523aa8.jpg",
+    "static/media/jumanji.jpg": "/static/media/jumanji.7100f0d1.jpg",
+    "static/media/logo.png": "/static/media/logo.8f463407.png",
+    "static/media/play.png": "/static/media/play.cf87a3c8.png",
+    "static/media/scorpion.jpg": "/static/media/scorpion.1db94683.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.935ef551.js",
+    "static/css/2.e72b42a1.chunk.css",
+    "static/js/2.a18c0053.chunk.js",
+    "static/css/main.6d65ec99.chunk.css",
+    "static/js/main.96d41c12.chunk.js"
+  ]
+}
